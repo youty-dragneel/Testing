@@ -1,0 +1,8 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@headerFont        : 'nexa', 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+@pageFont          : 'Lato','nexa', 'Helvetica Neue', Helvetica, sans-serif;
+
+

@@ -1,0 +1,10 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@fontFamily: @headerFont;
+@secondaryPointingBorderWidth: 5px;
+@secondaryPointingBorderColor: transparent;
+@secondaryPointingItemVerticalPadding: @relative5px;
+@secondaryPointingActiveFontWeight: normal;
+@secondaryPointingInvertedActiveBorderColor: @pink;
